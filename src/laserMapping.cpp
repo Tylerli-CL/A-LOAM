@@ -81,6 +81,7 @@ const int laserCloudDepth = 11;
 
 const int laserCloudNum = laserCloudWidth * laserCloudHeight * laserCloudDepth; //4851
 
+// git test
 
 int laserCloudValidInd[125];
 int laserCloudSurroundInd[125];
